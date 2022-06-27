@@ -1,6 +1,10 @@
-Week: 1
+Name: Abdalrahman
 ---
-Date: 27-jun-2022
+- Week: 1
+- Date: 27-jun-2022
 ---
-Name:Abdalrahman
+challenge: (power of thor, https://www.codingame.com/training/easy/power-of-thor-episode-1)
 ---
+- Solution Date: 27-jun-2022
+- Team: all CuneiCode member's
+- notes: coding is the easy part 
