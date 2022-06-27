@@ -17,4 +17,4 @@ challenge: (Mars Lander, https://www.codingame.com/ide/puzzle/mars-lander-episod
 - Language: Python3
 - Solution Date: 27-jun-2022
 - Team: all CuneiCode member's
-- notes: was very intimidated at first turned out to be easy the gaol was to get the fastest time to land got 1:04 and gave up will try later to get below 1 minute 
+- notes: was very intimidated at first turned out to be easy then tried to get the fastest time to land got 1:04 and gave up will try later to get below 1 minute 
