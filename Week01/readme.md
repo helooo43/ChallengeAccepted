@@ -25,4 +25,4 @@ challenge: [shadown-of-knight-ep1](https://www.codingame.com/training/medium/sha
 - Language: Python3
 - Solution Date: 4-jul-2022
 - Team: programmer 
-- notes: for some reason it was easy the only hard one was the first after that it was all easy 
+- notes: for some reason it was easy the only hard one was the first one after that it was all easy 
